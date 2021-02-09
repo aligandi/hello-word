@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo 'Who are you?'
+
+read who
+
+echo "Hello, $who!"
+
+echo 'Where do you live?'
+
+read where
+
+echo "Nice place about $where, thanks!"
+
+
+
+
+
+
+
+
+echo 'Nice to meet you'
